@@ -1,0 +1,4 @@
+fpdf
+streamlit
+gradio
+openpyxl
