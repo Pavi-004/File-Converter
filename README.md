@@ -24,8 +24,9 @@ The main objectives of this project are to:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/universal-file-to-pdf-converter.git
-cd universal-file-to-pdf-converter
+git init
+git clone https://github.com/Pavi-004/File-Converter.git
+cd File-Converter
 ```
 
 2. Create a virtual environment *(optional but recommended)*:
@@ -86,7 +87,8 @@ streamlit run app.py
 - Handles potential conversion issues *gracefully*
 
 ## 📸 Screenshots
-*[You can add screenshots of the application here]*
+*![image](https://github.com/user-attachments/assets/892073c0-5eec-41be-bdd4-36a0be6724dd)*
+
 
 ## 🤝 Contributing
 **Contributions are welcome!** Please feel free to submit a Pull Request.
@@ -98,13 +100,12 @@ streamlit run app.py
 4. Push to the branch `git push origin feature/AmazingFeature`
 5. Open a Pull Request
 
-## 📜 License
-*[Specify your license here, e.g., MIT License]*
 
 ## 👥 Contact
-**Pavi Shanker**
-- **pavishanker72@gmail.com:** 
-- **Repo Link:** https://github.com/yourusername/universal-file-to-pdf-converter
+**🧑‍🎓 Pavi Shanker**
+- **✉️ pavishanker72@gmail.com:**
+- **📞 +91-9074947962**
+- **Repo Link:** https://github.com/Pavi-004/File-Converter.git
 
 ## 🙏 Acknowledgements
 - [Streamlit](https://streamlit.io/)
