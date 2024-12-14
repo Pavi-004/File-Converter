@@ -11,9 +11,6 @@ def convert_to_pdf(uploaded_file):
     pdf = FPDF(orientation="P", unit="mm", format="A4")
     pdf.add_page()
 
-    # Set font
-    pdf.set_font(family="Times", size=12)
-
     # Get the filename without extension
     filename = Path(uploaded_file.name).stem.title()
 
